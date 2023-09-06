@@ -2,7 +2,7 @@
 
 | Screen 1                  | Screen 2                  | Screen 3                  | 
 |--------------------------|--------------------------|--------------------------|
-| ![Image 1](App%20Screenshot/screen1.png)| ![Image 2](App%20Screenshot/screen2.png)| ![Image 3](App%20Screenshot/screen3.png)|
+| ![Image 1](App%20Screenshot/Screen1.png)| ![Image 2](App%20Screenshot/Screen2.png)| ![Image 3](App%20Screenshot/Screen3.png)|
 
 PastelOnBoarding is a SwiftUI-based iOS application that provides an elegant onboarding experience for users. It allows you to introduce your app's features and benefits through beautifully designed pages.
 
