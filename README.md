@@ -26,5 +26,5 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/PastelOnBoarding.git
+   git clone https://github.com/kanojiyasmit/PastelOnBoarding.git
    cd PastelOnBoarding
